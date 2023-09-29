@@ -1,19 +1,19 @@
 {
     "owls": [
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bubo_virginianus_nacurutu_-_Otter%2C_Owl%2C_and_Wildlife_Park.jpg/800px-Bubo_virginianus_nacurutu_-_Otter%2C_Owl%2C_and_Wildlife_Park.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flickr_-_Dario_Sanches_-_CORUJA-DA-IGREJA_%28Tyto_furcata%29.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pulsatrix_perspicillata.jpg/800px-Pulsatrix_perspicillata.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Megascops_atricapilla_-Vale_do_Ribeira%2C_Registro%2C_Sao_Paulo%2C_Brazil-8.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Coruja-preta_%28Strix_huhula%29.jpg/800px-Coruja-preta_%28Strix_huhula%29.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mottled_Owl.jpg/1024px-Mottled_Owl.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Asio_flammeus_-Fazenda_Campo_de_Ouro%2C_Piraju%2C_Sao_Paulo%2C_Brasil-8.jpg/1024px-Asio_flammeus_-Fazenda_Campo_de_Ouro%2C_Piraju%2C_Sao_Paulo%2C_Brasil-8.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mocho-diabo_no_Parque_Estadual_Intervales.jpg/800px-Mocho-diabo_no_Parque_Estadual_Intervales.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tawny-bellied_screech-owl.jpg/1024px-Tawny-bellied_screech-owl.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Megascops_sanctaecatarinae_-_Long-tufted_Screech_Owl.JPG/800px-Megascops_sanctaecatarinae_-_Long-tufted_Screech_Owl.JPG"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pulsatrix_koeniswaldiana_front.jpg/1024px-Pulsatrix_koeniswaldiana_front.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Strix_hylophila_-Reserva_Guainumbi%2C_Sao_Luis_do_Paraitinga%2C_Sao_Paulo%2C_Brasil-8.jpg/420px-Strix_hylophila_-Reserva_Guainumbi%2C_Sao_Luis_do_Paraitinga%2C_Sao_Paulo%2C_Brasil-8.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Cactus_Ferruginous_Pygmy-owl.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Burrowing_Owl_4354.jpg/800px-Burrowing_Owl_4354.jpg"},
-        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lophostrix_cristata_-Panama-8.jpg/1280px-Lophostrix_cristata_-Panama-8.jpg"}
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bubo_virginianus_nacurutu_-_Otter%2C_Owl%2C_and_Wildlife_Park.jpg/800px-Bubo_virginianus_nacurutu_-_Otter%2C_Owl%2C_and_Wildlife_Park.jpg", "name": "Bubo virginianus nacurutu"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Flickr_-_Dario_Sanches_-_CORUJA-DA-IGREJA_%28Tyto_furcata%29.jpg", "name": "Tyto furcata"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pulsatrix_perspicillata.jpg/800px-Pulsatrix_perspicillata.jpg", "name": "Pulsatrix perspicillata"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Megascops_atricapilla_-Vale_do_Ribeira%2C_Registro%2C_Sao_Paulo%2C_Brazil-8.jpg", "name": "Megascops atricapilla"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Coruja-preta_%28Strix_huhula%29.jpg/800px-Coruja-preta_%28Strix_huhula%29.jpg", "name": "Strix huhula"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mottled_Owl.jpg/1024px-Mottled_Owl.jpg", "name": "Strix virgata"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Asio_flammeus_-Fazenda_Campo_de_Ouro%2C_Piraju%2C_Sao_Paulo%2C_Brasil-8.jpg/1024px-Asio_flammeus_-Fazenda_Campo_de_Ouro%2C_Piraju%2C_Sao_Paulo%2C_Brasil-8.jpg", "name": "Asio flammeus"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mocho-diabo_no_Parque_Estadual_Intervales.jpg/800px-Mocho-diabo_no_Parque_Estadual_Intervales.jpg", "name": "Asio stygius"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tawny-bellied_screech-owl.jpg/1024px-Tawny-bellied_screech-owl.jpg", "name": "Megascops watsonii"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Megascops_sanctaecatarinae_-_Long-tufted_Screech_Owl.JPG/800px-Megascops_sanctaecatarinae_-_Long-tufted_Screech_Owl.JPG", "name": "Megascops sanctaecatarinae"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pulsatrix_koeniswaldiana_front.jpg/1024px-Pulsatrix_koeniswaldiana_front.jpg", "name": "Pulsatrix koeniswaldiana"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Strix_hylophila_-Reserva_Guainumbi%2C_Sao_Luis_do_Paraitinga%2C_Sao_Paulo%2C_Brasil-8.jpg/420px-Strix_hylophila_-Reserva_Guainumbi%2C_Sao_Luis_do_Paraitinga%2C_Sao_Paulo%2C_Brasil-8.jpg", "name": "Strix hylophila"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Cactus_Ferruginous_Pygmy-owl.jpg", "name": "Glaucidium brasilianum"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Burrowing_Owl_4354.jpg/800px-Burrowing_Owl_4354.jpg", "name": "Athene cunicularia"},
+        {"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lophostrix_cristata_-Panama-8.jpg/1280px-Lophostrix_cristata_-Panama-8.jpg", "name": "Lophostrix cristata"}
     ]
 }
